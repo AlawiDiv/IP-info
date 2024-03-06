@@ -7,19 +7,16 @@ A tool that collects information about IP address
 # Install and Run
 How to install:
 
-apt update
+`apt update`
 
-pkg install git
+`pkg install git`
 
-git clone https://github.com/IVAN-DARK/IP-info
-
-########################
-
+`git clone https://github.com/AlawiDiv/IP-info`
 
 How to run:
 
-cd IP-info
+`cd IP-info`
 
-bash install.sh
+`bash install.sh`
 
 IP-info ip
