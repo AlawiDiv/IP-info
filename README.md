@@ -12,6 +12,7 @@ apt update
 ```
 pkg install git
 ```
+```
 git clone https://github.com/AlawiDiv/IP-info
 ```
 How to run:
