@@ -6,17 +6,18 @@ A tool that collects information about IP address
 
 # Install and Run
 How to install:
-
-`apt update`
-
-`pkg install git`
-
-`git clone https://github.com/AlawiDiv/IP-info`
-
+```
+apt update
+```
+pkg install git
+```
+git clone https://github.com/AlawiDiv/IP-info
+```
 How to run:
-
-`cd IP-info`
-
-`bash install.sh`
-
+```
+cd IP-info
+```
+```
+bash install.sh
+```
 IP-info ip
